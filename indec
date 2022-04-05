@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" class="__meteor-css__" href="/b8fcd86b56fc6f10c08634a04a876b7b25d41921.css?meteor_css_resource=true">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link class="default-favicon" rel="apple-touch-icon" sizes="57x57" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-57x57.png">
+    <link class="default-favicon" rel="apple-touch-icon" sizes="60x60" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-60x60.png">
+    <link class="default-favicon" rel="apple-touch-icon" sizes="72x72" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-72x72.png">
+    <link class="default-favicon" rel="apple-touch-icon" sizes="76x76" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-76x76.png">
+    <link class="default-favicon" rel="apple-touch-icon" sizes="114x114" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-114x114.png">
+    <link class="default-favicon" rel="apple-touch-icon" sizes="120x120" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-120x120.png">
+    <link class="default-favicon" rel="apple-touch-icon" sizes="144x144" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-144x144.png">
+    <link class="default-favicon" rel="apple-touch-icon" sizes="152x152" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-152x152.png">
+    <link class="default-favicon" rel="apple-touch-icon" sizes="180x180" href="https://cdn.atshop.io/assets/images/favicon/apple-icon-180x180.png">
+    <link class="default-favicon" rel="icon" type="image/png" sizes="192x192"  href="https://cdn.atshop.io/assets/images/favicon/android-icon-192x192.png">
+    <link class="default-favicon" rel="icon" type="image/png" sizes="32x32" href="https://cdn.atshop.io/assets/images/favicon/favicon-32x32.png">
+    <link class="default-favicon" rel="icon" type="image/png" sizes="96x96" href="https://cdn.atshop.io/assets/images/favicon/favicon-96x96.png">
+    <link class="default-favicon" rel="icon" type="image/png" sizes="16x16" href="https://cdn.atshop.io/assets/images/favicon/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta class="default-favicon" name="msapplication-TileImage" content="https://cdn.atshop.io/assets/images/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <script charset="utf-8" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver,IntersectionObserverEntry"></script>
+
+</head>
+<body><!-- Vue.js Application Container -->
+    <div id="app">
+        <div class="hero is-dark loading-overlay is-active">
+            <div class="loading-icon"></div>
+        </div>
+    </div>
+  <script type="text/javascript">__meteor_runtime_config__ = JSON.parse(decodeURIComponent("%7B%22meteorRelease%22%3A%22METEOR%401.11.1%22%2C%22meteorEnv%22%3A%7B%22NODE_ENV%22%3A%22production%22%2C%22TEST_METADATA%22%3A%22%7B%7D%22%7D%2C%22PUBLIC_SETTINGS%22%3A%7B%22disconnectTimeSec%22%3A1500%2C%22gtagId%22%3A%22UA-40056261-7%22%2C%22permalinkService%22%3A%7B%22host%22%3A%22redirect.atshop.io%22%2C%22protocol%22%3A%22https%22%2C%22enabled%22%3Atrue%7D%2C%22ipn%22%3A%7B%22paypal%22%3A%22https%3A%2F%2Fapi.atshop.io%2Fapi%2Fipn%2Fpaypal%22%2C%22coinpayments%22%3A%22https%3A%2F%2Fapi.atshop.io%2Fapi%2Fipn%2Fcoinpayments%22%7D%2C%22paylike%22%3A%7B%22key%22%3A%225ce77035-27b9-4faa-957f-0680b606c886%22%7D%2C%22maxmind%22%3A%7B%22account%22%3A132297%7D%2C%222checkout%22%3A%7B%22account%22%3A%22203858108%22%2C%22key%22%3A%22905E56A7-AB39-47E0-8569-2F21F00884C4%22%7D%2C%22sentryClientDsn%22%3A%22https%3A%2F%2F9ff3ad012558440ea8821be5adb12b66%40sentry.io%2F1205277%22%2C%22recurly%22%3A%7B%22public%22%3A%22ewr1-wvaOfsFpklMZa19u0XfhKe%22%2C%22subdomain%22%3A%22atshop%22%7D%2C%22braintree%22%3A%7B%22tokenization%22%3A%22production_6b8x9pbb_wdpz4m4ygvg4g52r%22%7D%2C%22intercom%22%3A%7B%22id%22%3A%22msak0o3q%22%7D%2C%22company%22%3A%7B%22name%22%3A%22WcA%20Dev%20Services%20SRL%22%2C%22idNumber%22%3A%2236824909%22%2C%22commercialRegistryNumber%22%3A%22J40%2F16229%2F2016%22%2C%22incorporationDate%22%3A%2212.12.2016%22%2C%22initialCapital%22%3A%22200%20RON%22%2C%22vatCode%22%3A%22RO36868034%22%2C%22address1%22%3A%22Str.%20Caminului%20Nr.%2032%20Bl.%20D2%20Sc.%205%20Ap.%2037%22%2C%22address2%22%3A%22Sector%202%22%2C%22city%22%3A%22Bucharest%22%2C%22zip%22%3A%22021745%22%2C%22country%22%3A%22Romania%22%2C%22bank%22%3A%22ING%20BANK%20N.V.%20AMSTERDAM%20-%20SUCURSALA%20BUCURESTI%22%2C%22iban%22%3A%22RO64INGB0000999907316081%22%2C%22bic%22%3A%22INGBROBU%22%7D%2C%22ROOT_URL%22%3A%22https%3A%2F%2Fatshop.io%22%2C%22app%22%3A%7B%22host%22%3A%22atshop-deployment-6b685f88bb-p4w6p%22%2C%22version%22%3A%22dc428a6b1cd5ef8f9cf6a0808a5af044058f3e8a%22%2C%22type%22%3A%22app_server%22%7D%7D%2C%22ROOT_URL%22%3A%22https%3A%2F%2Fatshop.io%22%2C%22ROOT_URL_PATH_PREFIX%22%3A%22%22%2C%22isModern%22%3Atrue%7D"))</script>
+
+  <script type="text/javascript" src="/e8a7df54e1cd47b5c95c294820bb1d6c7e1cece6.js?meteor_js_resource=true"></script>
+
+
+</body>
+</html>
